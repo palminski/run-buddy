@@ -147,6 +147,7 @@ section div h3 {
     border-bottom: 3px solid;
 
 }
+
 .primary-border {
     border-color: #fce138;
 }
@@ -213,4 +214,41 @@ text-align: left;
 .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
+}
+
+.reach-out{
+    text-align: center;
+    background-color: #024e76;
+}
+.reach-out h2{
+    color: #fce138;
+}
+
+.contact-info iframe{
+    width: 400px;
+    height: 400px;
+}
+.info{
+    display: inline-block;
+    width: 410px;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+    line-height: 25px;
+}
+.contact-info h3{
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address{
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a{
+    color: #fce138;
 }
