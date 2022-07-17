@@ -13,4 +13,4 @@ https://palminski.github.io/run-buddy/
 ## Contribution
 Will Bolls
 
-# Run Buddy Inc.
+###  ©️2019 Run Buddy, Inc 
