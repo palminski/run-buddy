@@ -1,14 +1,14 @@
 # Run Buddy
 
-##Purpose
+## Purpose
 A website that offers a fitness training service
 
-##Built With
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
-##Website
+## Website
 https://palminski.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Will Bolls
